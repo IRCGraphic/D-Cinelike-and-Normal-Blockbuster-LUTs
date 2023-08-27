@@ -18,7 +18,7 @@ NOTES:
 LUTS INVENTORY:
 - "D-CINELIKE BASE IsaacRC's Blockbuster.cube": although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike versions are build over, being the coolest tint of them all it's the most gentle for skin colour rendition that is including the Normal profile LUTs being possibly the worst for skin adaptability.
 
-- "D-CINELIKE V2 IsaacRC's Blockbuster.cube": a beefed up version of the D-CINELIKE BASE LUT, more warm and the main used for all the D-Cinelike scenes in the video. The best LUT for general use.
+- "D-CINELIKE V2 IsaacRC's Blockbuster.cube": a beefed up version of the D-CINELIKE BASE LUT, more warm and the main used for all the D-Cinelike scenes in the video. The recommended LUT for general use.
 
 - "D-CINELIKE V2 SCENE IsaacRC's Blockbuster": simple contrast and saturation adjustments over the D-CINELIKE V2 LUT used in the 7th scene min. 1:27 of the demostrative video, why not include it.
 
