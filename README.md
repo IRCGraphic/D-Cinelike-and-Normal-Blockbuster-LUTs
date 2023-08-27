@@ -6,3 +6,5 @@ NOTES:
 - This LUTs add some degree of warmth to the image therefore are expecting a neutral white balanced image, specially for skin colour rendition being already in the warm colour spectrum saturation could build up excessively with pre-warmed or warmed biased white balanced material.
 
 - This LUTs where tested to avoid any breakage to the image in optimum quality conditions but do not expect to perform well if the material already presents artefacts like high ISOs or any compression and zoomed-in issues.
+
+- To download the LUTS simply click over the .zip file in the file menu above and then click in the download button option in the upper right corner.
