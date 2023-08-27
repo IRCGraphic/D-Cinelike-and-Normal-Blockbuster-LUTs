@@ -16,12 +16,12 @@ NOTES:
 - For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
 
 LUTS INVENTORY:
-- "D-CINELIKE BASE IsaacRC's Blockbuster.cube": although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike versions are build over, being the coolest tint of them all it's the most gentle for skin colour rendition that is including the Normal profile LUTs being possibly the worst for skin adaptability.
+- "D-CINELIKE -0_3 BASE IsaacRC's Blockbuster.cube": all the following D-Cinelike LUTs expects a -0.3 exposure compensation, although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike versions are build over, hass the coolest tint of them all so it's the most gentle for skin colour rendition that is including the Normal profile LUTs being the less ideal for skin adaptability.
 
-- "D-CINELIKE V2 IsaacRC's Blockbuster.cube": a beefed up version of the D-CINELIKE BASE LUT, more warm and the main used for all the D-Cinelike scenes in the video. The recommended LUT for general use.
+- "D-CINELIKE -0_3 V2 IsaacRC's Blockbuster.cube": a beefed up version of the D-CINELIKE -0_3 BASE, more warm and the main used for all the D-Cinelike scenes in the video. The recommended LUT for general use.
 
-- "D-CINELIKE V2 SCENE IsaacRC's Blockbuster": simple contrast and saturation adjustments over the D-CINELIKE V2 LUT used in the 7th scene min. 1:27 of the demostrative video, why not include it.
+- "D-CINELIKE -0_3 V2 SCENE IsaacRC's Blockbuster": simple contrast and saturation adjustments over the D-CINELIKE -0_3 V2 LUT used in the 7th scene min. 1:27 of the demostrative video, why not include it.
 
-- "NORMAL BASE IsaacRC's Blockbuster.cube":
+- "NORMAL -1_0 BASE IsaacRC's Blockbuster.cube": all the following Normal profile LUTs expects a -1.0 exposure compensation
 
 - "GYROFLOW CONVERSION Legal to Full.cube": as of the date of the this LUTs release this utility 1D LUT is needed if importing material from Gyroflow in the video editor and the gamma is mistakenly scaled to Legal levels (lifting the shadows and lowering the sgadows). A simple way to know if you need to apply this LUT before applying the Blockbuster LUTs is importing the original camera material and its Gyroflow stabilized version into the video editor, if the video is not identical and you see it's being scaled to Legal then simply apply this 1D LUT to scale it back to Full levels.
