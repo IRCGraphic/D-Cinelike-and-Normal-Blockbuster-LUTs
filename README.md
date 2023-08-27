@@ -30,6 +30,6 @@ LUTS INVENTORY:
 
 - "NORMAL -1_0 SKIN IsaacRC's Blockbuster.cube": tailored for optimum skin colour rendition, almost a completely different LUT.
 
-- "NORMAL -1_0 SKIN V2 IsaacRC's Blockbuster.cube": a more gentle NORMAL -1_0 SKIN version, less saturated.
+- "NORMAL -1_0 SKIN V2 IsaacRC's Blockbuster.cube": a more gentle SKIN version, less saturated.
 
 - "GYROFLOW CONVERSION Legal to Full.cube": as of the date of the this LUTs release this utility 1D LUT is needed if importing material from Gyroflow in the video editor and the gamma is mistakenly scaled to Legal levels (lifting the shadows and lowering the sgadows). A simple way to know if you need to apply this LUT before applying the Blockbuster LUTs is importing the original camera material and its Gyroflow stabilized version into the video editor, if the video is not identical and you see it's being scaled to Legal then simply apply this 1D LUT to scale it back to Full levels.
