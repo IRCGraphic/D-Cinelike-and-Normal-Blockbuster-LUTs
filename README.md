@@ -5,4 +5,4 @@
 
 - This LUTs add some degree of warmth to the image therefore are expecting a neutral white balanced image, specially for skin colour rendition being already this in warm colour spectrum saturation will build up excessively with pre-warmed or warmed biased white balance material.
 
-- This LUTs where tested to avoid any breakage to the image in optimum quality conditions but do not expect to perform well if the material already presents artefacts specially high ISOs or compression artefacts.
+- This LUTs where tested to avoid any breakage to the image in optimum quality conditions but do not expect to perform well if the material already presents artefacts specially high ISOs or compression or zoomed-in issues.
