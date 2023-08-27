@@ -18,17 +18,17 @@ NOTES:
 LUTS INVENTORY:
 - "D-CINELIKE -0_3 BASE IsaacRC's Blockbuster.cube": -0_3 means that ideally expects a -0.3 exposure compensation, although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike versions are build over, has the coolest temperature of them all so it's the best for skin colour versatility that is including the Normal profile LUTs being the most limited.
 
-- "D-CINELIKE -0_3 V2 IsaacRC's Blockbuster.cube": a beefed up version of the D-CINELIKE -0_3 BASE, more warm and the main used for all the D-Cinelike scenes in the video. The recommended LUT for general use.
+- "D-CINELIKE -0_3 V2 IsaacRC's Blockbuster.cube": a beefed up version of the BASE, more warm and the main used for all the D-Cinelike scenes in the video. The recommended LUT for general use.
 
-- "D-CINELIKE -0_3 V2 SCENE IsaacRC's Blockbuster": minor contrast and saturation adjustments over the D-CINELIKE -0_3 V2 LUT made for the 7th scene min. 1:27 of the demostrative video, why not include it.
+- "D-CINELIKE -0_3 V2 SCENE IsaacRC's Blockbuster": minor contrast and saturation adjustments over the V2 LUT made for the 7th scene min. 1:27 of the demostrative video, why not include it.
 
 - "NORMAL -1_0 BASE IsaacRC's Blockbuster.cube": like all the following Normal profile LUTs expects a -1.0 exposure compensation, it's the base LUT version.
 
-- "NORMAL -1_0 SCENE 01 IsaacRC's Blockbuster.cube": a minor variation of the NORMAL -1_0 BASE LUT made for the 5th and 6th scene min. 0:52 of the demostrative video, why not include it.
+- "NORMAL -1_0 SCENE 01 IsaacRC's Blockbuster.cube": a minor variation of the BASE made for the 5th and 6th scene min. 0:52 of the demostrative video, why not include it.
 
-- "NORMAL -1_0 SCENE 02 IsaacRC's Blockbuster.cube": a minor variation of the NORMAL -1_0 BASE LUT made for the 8th, 9th and 10th scene min. 1:45 of the demostrative video, why not include it.
+- "NORMAL -1_0 SCENE 02 IsaacRC's Blockbuster.cube": a minor variation of the BASE made for the 8th, 9th and 10th scene min. 1:45 of the demostrative video, why not include it.
 
-- "NORMAL -1_0 SKIN IsaacRC's Blockbuster.cube": tailored for optimum skin colour rendition, almost a complete different LUT.
+- "NORMAL -1_0 SKIN IsaacRC's Blockbuster.cube": tailored for optimum skin colour rendition, almost a completely different LUT.
 
 - "NORMAL -1_0 SKIN V2 IsaacRC's Blockbuster.cube": a more gentle NORMAL -1_0 SKIN version, less saturated.
 
