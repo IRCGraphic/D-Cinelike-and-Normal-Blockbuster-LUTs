@@ -1,6 +1,6 @@
 ![THUMBNAIL FOR GITHUB](https://github.com/IRCGraphic/D-CINELIKE-AND-NORMAL-BLOCKBUSTER-LUT/assets/113941057/e6f190df-de00-4c56-9cd2-f3cd11eee20f)
 # INSTRUCTIONS
-To download the LUTs simply click over the .zip file in the file menu above and then click in the download button option located in the upper right corner.
+To download the LUTs simply click over the .zip in the file menu above and then click in the download button option located in the upper right corner.
 
 For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
 
