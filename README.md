@@ -12,4 +12,8 @@ NOTES:
 - For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
 
 INVENTORY:
-- GYROFLOW CONVERSION Legal to Full.cube: as of the date of the LUTs release this utility 1D LUT is needed if importing material from Gyroflow in the video editor and the gamma is wrongly scaled to Legal levels lifting the shadows
+- D-CINELIKE BASE IsaacRC's Blockbuster.cube : although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike verssions are build over, being the coolest tint of them all it's the most gentle for skin colour rendition including the Normal profile LUTs.
+- D-CINELIKE V2 IsaacRC's Blockbuster.cube : a beefed up version of the D-CINELIKE BASE LUT, more warm and the main used for all the scenes in the video.
+- D-CINELIKE V2 SCENE IsaacRC's Blockbuster : simple contrast and saturation adjustments over the D-CINELIKE V2 LUT used in the 7th scene min. 1:27 of the video, why not include it.
+- 
+- GYROFLOW CONVERSION Legal to Full.cube : as of the date of the this LUTs release this utility 1D LUT is needed if importing material from Gyroflow in the video editor and the gamma is mistakenly scaled to Legal levels (lifting the shadows and lowering the sgadows). A simple way to know if you need to apply this LUT before applying the Blockbuster LUTs is importing the original camera material and its Gyroflow stabilized version into the video editor, if the video is not identical and you see it's being scaled to Legal then simply apply this 1D LUT to scale it back to Full levels.
