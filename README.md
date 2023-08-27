@@ -16,7 +16,7 @@ NOTES:
 - For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
 
 LUTS INVENTORY:
-- "D-CINELIKE -0_3 BASE.cube": -0_3 means that ideally expects a -0.3 exposure compensation, although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike versions are build over, has the coolest temperature of them all so it's the best for skin colour versatility that is including the Normal profile LUTs being the most limited.
+- "D-CINELIKE -0_3 BASE.cube": -0_3 means that ideally expects a -0.3 exposure compensation, although this LUT wasn't used in the video demonstration, it's the base LUT upon the rest of the D-cinelike versions are build over, has the coolest temperature of them all so it's the best for skin colour versatility that is including the Normal profile LUTs being possibly the most limited.
 
 - "D-CINELIKE -0_3 V2.cube": a beefed up version of the BASE, more warm and the main used for all the D-Cinelike scenes in the video. The recommended LUT for general use.
 
