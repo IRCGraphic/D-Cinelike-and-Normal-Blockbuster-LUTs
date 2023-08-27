@@ -9,7 +9,7 @@ NOTES:
 
 - This LUTs where tested to avoid any breakage to the image in optimum quality conditions but do not expect to perform well if the material already presents artefacts like high ISOs or any compression and zoomed-in issues.
 
-- This Luts where tailored using the colour rendition of an iMac Retina monitor with a display colur profile of HD 709-A https://youtu.be/YwjLuUR51gE?feature=shared Given the crazy situation that everyone (not professionals) has different consumer monitor colour renditions I truly have no idea how good or totally horrible anyone may see the LUTs results, be advised.
+- This Luts where tailored using the colour rendition of an iMac Retina monitor with a display colur profile of HD 709-A https://youtu.be/YwjLuUR51gE?feature=shared Given the crazy situation that everyone (not professionals) has a wide variety of different monitor types plus colour rendition profiles I truly have no idea how good or totally horrible anyone may see the LUTs results, be advised.
 
 - To download the LUTs simply click over the .zip file in the file menu above and then click in the download button option located in the upper right corner.
 
