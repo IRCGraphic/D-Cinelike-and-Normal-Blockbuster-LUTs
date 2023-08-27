@@ -7,4 +7,6 @@ NOTES:
 
 - This LUTs where tested to avoid any breakage to the image in optimum quality conditions but do not expect to perform well if the material already presents artefacts like high ISOs or any compression and zoomed-in issues.
 
-- To download the LUTs simply click over the .zip file in the file menu above and then click in the download button option in the upper right corner. For a colour rendition demonstration of the LUTs watch this video montage I've you haven't been re-directed here from Youtube already: https://youtu.be/u3WZun1xiSQ For any feedback feel free to comment in the discussions section.
+- To download the LUTs simply click over the .zip file in the file menu above and then click in the download button option in the upper right corner.
+
+- For a colour rendition demonstration of the LUTs watch this video montage I've you haven't been re-directed here from Youtube already: https://youtu.be/u3WZun1xiSQ For any feedback feel free to comment in the discussions section.
