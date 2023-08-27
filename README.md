@@ -24,9 +24,9 @@ LUTS INVENTORY:
 
 - "NORMAL -1_0 BASE.cube": like all the following Normal profile LUTs expects a -1.0 exposure compensation, it's the base LUT version.
 
-- "NORMAL -1_0 SCENE 01.cube": an improved version of the BASE LUT made for the 5th and 6th scene min. 0:52 of the demostrative video, why not include it.
+- "NORMAL -1_0 SCENE 01.cube": an improved version of the BASE LUT made for the 5th and 6th scene min. 0:52 of the demostrative video.
 
-- "NORMAL -1_0 SCENE 02.cube": another improved version of the BASE LUT made for the 8th, 9th and 10th scene min. 1:45 of the demostrative video, why not include it.
+- "NORMAL -1_0 SCENE 02.cube": another improved version of the BASE LUT made for the 8th, 9th and 10th scene min. 1:45 of the demostrative video.
 
 - "NORMAL -1_0 SKIN.cube": tailored for skin colour rendition, almost a completely different LUT.
 
