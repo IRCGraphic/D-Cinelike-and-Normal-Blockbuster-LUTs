@@ -9,4 +9,4 @@ NOTES:
 
 - To download the LUTs simply click over the .zip file in the file menu above and then click in the download button option in the upper right corner.
 
-- For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions section.
+- For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
