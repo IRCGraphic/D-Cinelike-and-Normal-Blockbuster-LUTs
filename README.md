@@ -1,6 +1,8 @@
 ![THUMBNAIL FOR GITHUB](https://github.com/IRCGraphic/D-CINELIKE-AND-NORMAL-BLOCKBUSTER-LUT/assets/113941057/e6f190df-de00-4c56-9cd2-f3cd11eee20f)
 # INSTRUCTIONS
-To download the LUTs simply click over the ISAAC RC'S BLOCKBUSTER LUTs.zip in the file menu above the image and then in the following page click in the download icon located in the upper right corner of a menu bar.
+To download the LUTs simply click over the ISAAC RC'S BLOCKBUSTER LUTs.zip in the file menu above the image and then in the following page click in the download icon located in the upper right corner of the menu bar next to "Raw" and "Copy" icons, here:
+<img width="2479" alt="MenuBar" src="https://github.com/IRCGraphic/D-Cinelike-and-Normal-Blockbuster-LUTs/assets/113941057/d222d8e5-0d74-45b9-a91c-80d69e8cca46">
+
 
 For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
 
