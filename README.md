@@ -10,3 +10,6 @@ NOTES:
 - To download the LUTs simply click over the .zip file in the file menu above and then click in the download button option in the upper right corner.
 
 - For a colour rendition demonstration of the LUTs watch this video montage https://youtu.be/u3WZun1xiSQ if you haven't already been re-directed here from Youtube. And for any feedback feel free to comment in the discussions menu.
+
+INVENTORY:
+- GYROFLOW CONVERSION Legal to Full.cube: as of the date of the LUTs release this utility 1D LUT is needed if importing material from Gyroflow in the video editor and the gamma is wrongly scaled to Legal levels lifting the shadows
