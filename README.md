@@ -11,7 +11,7 @@ NOTES:
 
 - This LUTs are tailored for DJI Action 2 material although colour rendition may be unique for every single DJI camera model nonetheless this LUTs have been tested to perform well over any sort of random and good quality material which brings to the next points.
 
-- This LUTs add some degree of warmth to the image therefore are expecting a neutral white balanced image, specially for skin colour rendition being already in the warm colour spectrum saturation could build up excessively with pre-warmed or warmed biased white balanced material.
+- This LUTs add a certain degree of warmth to the image therefore are expecting at least a neutral white balanced image, specially for skin colour rendition being already in the warm colour spectrum saturation could build up excessively with pre-warmed or warmed biased white balanced material.
 
 - This LUTs where tested to avoid any breakage to the image in optimum quality conditions but do not expect to perform well if the material already presents artefacts like high ISOs or any compression and zoomed-in issues.
 
