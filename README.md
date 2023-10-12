@@ -1,6 +1,6 @@
 ![THUMBNAIL FOR GITHUB](https://github.com/IRCGraphic/D-CINELIKE-AND-NORMAL-BLOCKBUSTER-LUT/assets/113941057/e6f190df-de00-4c56-9cd2-f3cd11eee20f)
 # INSTRUCTIONS
-To download the LUTs simply click over the ISAAC RC'S BLOCKBUSTER LUTs.zip in the file menu above the image and then in the following page click in the download icon located in the upper right corner of the menu bar next to "Raw" and "Copy" icons, here:
+To download the LUTs simply click over the ISAAC RC'S BLOCKBUSTER LUTs.zip or individually for any of the .cube LUTs in the file menu above the image and then in the following page click in the download icon located in the upper right corner of the menu bar next to "Raw" and "Copy" icons, here:
 <img width="2479" alt="MenuBar" src="https://github.com/IRCGraphic/D-Cinelike-and-Normal-Blockbuster-LUTs/assets/113941057/d222d8e5-0d74-45b9-a91c-80d69e8cca46">
 
 
@@ -25,6 +25,8 @@ LUTS INVENTORY:
 - "D-CINELIKE -0_3 V2 SCENE.cube": minor contrast and saturation adjustments over the V2 LUT made for the 7th scene min. 1:27 of the demonstrative video, why not include it.
 
 - "NORMAL -1_0 BASE.cube": like all the following Normal profile LUTs expects a -1.0 exposure compensation, it's the base LUT version.
+
+- "NORMAL -1_0 BASE + SKIN.cube": a recent addition to the pack, it's a mixture of SKIN and BASE, the best for NORMAL in my opinion although unlike the others I haven't tested it throughly
 
 - "NORMAL -1_0 SCENE 01.cube": an improved version of the BASE LUT made for the 5th and 6th scene min. 0:52 of the demonstrative video.
 
